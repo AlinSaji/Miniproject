@@ -1,0 +1,12 @@
+# Large media files exceeding GitHub's 100 MB limit
+/homevid/1.mp4
+/videos/1.mp4
+*.mp4
+
+# Archives and compressed packages
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+xampp.zip
